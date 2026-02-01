@@ -1,16 +1,57 @@
-## Hi there 👋
+# 👋 Hey there, I'm Pranav! 🚀
 
-<!--
-**soodsahb/soodsahb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🙋‍♂️ About Me
+- 👨‍💻 **Full Stack Developer**
+- ⏳ **1.5+ years of industry experience**
+- 🧠 Strong in backend systems & scalable architecture
+- 🔥 Passionate about clean code, performance & cloud
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+### 🌐 Frontend
+- ⚛️ React.js  
+- ▲ Next.js  
+- 🧩 JavaScript (ES6+)  
+- 🎨 HTML | CSS  
+
+### ⚙️ Backend
+- 🟢 Node.js  
+- 🚀 Express.js  
+- 🐱 Nest.js  
+
+### 🗄️ Databases
+- 🍃 MongoDB  
+- 🐘 PostgreSQL  
+- ⚡ DynamoDB  
+
+### ☁️ Cloud & DevOps
+- ☁️ AWS Lambda  
+- 🗃️ AWS DynamoDB  
+- 🖥️ AWS EC2  
+- 📦 AWS S3  
+- 🐳 Docker  
+
+### 🧰 Tools & Others
+- 🧪 Postman  
+- 🧠 Git & GitHub  
+- 🖥️ VS Code  
+
+---
+
+## 💡 What I Believe
+> “Good software is not just written — it’s engineered.”
+
+---
+
+## 📫 Let’s Connect
+- 🤝 Open to collaboration & learning
+- ⭐ Explore my repositories and feel free to connect
+
+---
+
+🔥 Thanks for visiting my profile!  
+Happy Coding 💻✨
